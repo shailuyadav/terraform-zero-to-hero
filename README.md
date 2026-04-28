@@ -1,4 +1,4 @@
-# Terraform Zero to Hero course by shailu
+# Terraform Zero to Hero course by shailu author chanhgge
 
 ## Day 1: Getting Started with Terraform
 
